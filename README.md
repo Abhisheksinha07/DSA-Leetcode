@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
