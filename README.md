@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
