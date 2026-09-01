@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
