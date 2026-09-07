@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
