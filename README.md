@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## String
 |  |
