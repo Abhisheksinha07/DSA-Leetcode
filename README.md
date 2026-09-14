@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Prefix Sum
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
