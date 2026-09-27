@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
