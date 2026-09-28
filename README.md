@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
