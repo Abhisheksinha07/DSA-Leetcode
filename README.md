@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2947-count-beautiful-substrings-i](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -99,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhisheksinha07/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
